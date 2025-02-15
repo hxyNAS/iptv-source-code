@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml" x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
+#EXTM3U x-tvg-url="https://e.erw.cc/e.xml,https://epg.112114.xyz/pp.xml,https://live.fanmingming.cn/e.xml,https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV1
 rtp://233.18.204.52:5140
