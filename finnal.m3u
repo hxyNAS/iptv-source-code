@@ -225,3 +225,29 @@ rtp://239.45.3.43:5140
 rtp://239.45.1.29:5140
 #EXTINF:-1 tvg-id="-1" tvg-name="嘉定电视" tvg-logo="https://live.fanmingming.cn/tv/嘉定电视.png" group-title="上海标清",嘉定电视
 rtp://239.45.3.185:5140
+#EXTINF:-1 tvg-id="Grade1" tvg-name="一年级" group-title="教育频道",一年级
+rtp://233.18.204.28:5140
+#EXTINF:-1 tvg-id="Grade2" tvg-name="二年级" group-title="教育频道",二年级
+rtp://233.18.204.29:5140
+#EXTINF:-1 tvg-id="Grade3" tvg-name="三年级" group-title="教育频道",三年级
+rtp://233.18.204.30:5140
+#EXTINF:-1 tvg-id="Grade4" tvg-name="四年级" group-title="教育频道",四年级
+rtp://233.18.204.31:5140
+#EXTINF:-1 tvg-id="Grade5" tvg-name="五年级" group-title="教育频道",五年级
+rtp://233.18.204.32:5140
+#EXTINF:-1 tvg-id="Grade6" tvg-name="六年级" group-title="教育频道",六年级
+rtp://233.18.204.33:5140
+#EXTINF:-1 tvg-id="Grade7" tvg-name="七年级" group-title="教育频道",七年级
+rtp://233.18.204.34:5140
+#EXTINF:-1 tvg-id="Grade8" tvg-name="八年级" group-title="教育频道",八年级
+rtp://233.18.204.35:5140
+#EXTINF:-1 tvg-id="Grade9" tvg-name="九年级" group-title="教育频道",九年级
+rtp://233.18.204.36:5140
+#EXTINF:-1 tvg-id="High1" tvg-name="高一年级" group-title="教育频道",高一年级
+rtp://233.18.204.37:5140
+#EXTINF:-1 tvg-id="High2" tvg-name="高二年级" group-title="教育频道",高二年级
+rtp://233.18.204.38:5140
+#EXTINF:-1 tvg-id="High3" tvg-name="高三年级" group-title="教育频道",高三年级
+rtp://233.18.204.39:5140
+#EXTINF:-1 tvg-id="ShanghaiEduHD" tvg-name="上海教育HD" group-title="教育频道",上海教育HD
+rtp://239.45.0.13:5140
